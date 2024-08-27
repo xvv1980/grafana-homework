@@ -22,4 +22,8 @@
 - количество места на файловой системе.
 ![изображение](https://github.com/user-attachments/assets/6c9c2c3c-4fe1-4922-8237-52fe028b98d9)
 
+- Dashboard
+  ![изображение](https://github.com/user-attachments/assets/74777e73-19d4-45f4-980e-f4ba08ff1284)
+
+
   
