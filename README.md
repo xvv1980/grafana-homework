@@ -16,8 +16,10 @@
   ![изображение](https://github.com/user-attachments/assets/b119207c-7a0f-40ef-938b-58562576a9d9)
 
 - количество свободной оперативной памяти;
+  ![изображение](https://github.com/user-attachments/assets/4db66fe4-d026-41b5-9d75-c917c75fe4bf)
 
   
 - количество места на файловой системе.
+![изображение](https://github.com/user-attachments/assets/6c9c2c3c-4fe1-4922-8237-52fe028b98d9)
 
   
