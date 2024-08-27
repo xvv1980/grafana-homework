@@ -24,8 +24,13 @@
   ![изображение](https://github.com/user-attachments/assets/74777e73-19d4-45f4-980e-f4ba08ff1284)
 
 ## 3. Alert
+  - В качестве Contact Points настроен Telegram.
+  - На панели "Утилизация CPU" настроен Alert.
 
 ![изображение](https://github.com/user-attachments/assets/05b18d84-84e0-41ae-86d9-ae9ec287d6ac)
 
+В моменты срабатывания Alert приходят сообщения:
+
+![изображение](https://github.com/user-attachments/assets/7470b87b-9c50-4141-bf63-0c7bcda0c5ba)
 
   
