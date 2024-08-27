@@ -33,4 +33,5 @@
 
 ![изображение](https://github.com/user-attachments/assets/7470b87b-9c50-4141-bf63-0c7bcda0c5ba)
 
-  
+## 4. Сохранить dashboard.
+   [Dashboard.json](Dashboard.json)
